@@ -78,3 +78,18 @@ Este reto será evaluado sobre lo siguiente:
 * Indentación
 * Archivo `README.md` actualizado y correctamente redactado
 * Uso de comentarios para hacer tu código más legible
+
+
+## Freelancer actualizado
+
+* Dentro del repositorio actualizado se podra encontrar con un archivo html con la estructura del sitio web replicado, debidamente enlazado con su archivo css que contiene los diferentes estilos del sitio web.
+
+***
+Para poder realizar el maquetado de freelancer utilice elementos semánticos de html, como nav para hacer el menú con posición fija el cual está dentro de un header y para el resto de las secciones utilice la etiqueta section y footer para el pie de página.
+
+* Dentro de nav hice uso de una lista desordenada 
+* Dentro de cada section utilice un div que contenga los diferentes elementos.
+* los iconos utilizados son de font awesome y los tipos de letras son de google fonts. Tanto font awesome como google fonts debidamente enlazados en el html.
+
+
+
